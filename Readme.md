@@ -1,4 +1,4 @@
-<h1>CNN e RNN for NLP</h1>
+<h1>CNN and RNN for NLP</h1>
 <p align="justify">Este repositório visa criar um breve resumo e implementação de redes neurais recorrentes. É um repositório voltado mais para o estudo do autor, e portanto 
     não possui a pretenção de ser algo pronto, mas sim em permanente construção. O artigo fonte para este estudo e cujos textos e gráficos estão na apresentação disponibilizada neste repositório segue abaixo:
      </p>
