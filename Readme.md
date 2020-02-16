@@ -42,20 +42,25 @@ que traz um _overview_ de aplicações de _Deep Neural Networks_ no contexto de 
 <br>
 
 ### Sobre CNNs:
+<p align="justify">
 
-_Convolutional Neural Networks_ são uma classe de redes neurais do tipo _feed-forward_ que utiliza uma variação de perceptrons multicamadas. Suas principais características são:
+<i>Convolutional Neural Networks</i> são uma classe de redes neurais do tipo <i>feed-forward</i> que utiliza uma variação de perceptrons multicamadas. Suas principais características são:
+</p>
 
 - **invariância local:** a posição absoluta de _features_ na imagem, ou texto, não é relevante. Apenas suas posições relativas são importantes para compor padrões de alto nível
 
 - **_compositionality_:** está associada à capacidade dessas redes reconhecerem padrões complexos de maneira hierárquica, combinando características elementares em padrões de alto nível. 
 
-Esses modelos ganharam muita fama em aplicações de _Computer Vision_ e, recentemente, têm ganhado mais atenção e obtido boa performance no campo de NLP.
+<p align="justify">
+Esses modelos ganharam muita fama em aplicações de <i>Computer Vision</i> e, recentemente, têm ganhado mais atenção e obtido boa performance no campo de NLP.
+
+</p>
 
 #### Problemas de aplicação:
 
-CNNs são eficazes em capturar informações de ordenamendo das _features_, mas estão limitadas a padrões locais de forma que padrões de longo alcance são ignorados. Tomando como exemplo uma aplicação de NLP, palavras que têm significado associado mas que aparecem muito distantes no texto não teriam similaridade captada apropriadamente por essa classe de modelos.
+<p align="justify">CNNs são eficazes em capturar informações de ordenamendo das <i>features</i>, mas estão limitadas a padrões locais de forma que padrões de longo alcance são ignorados. Tomando como exemplo uma aplicação de NLP, palavras que têm significado associado mas que aparecem muito distantes no texto não teriam similaridade captada apropriadamente por essa classe de modelos.
 
-Para saber mais a respeito, vide os links presentes na seção `Outras Referências`. 
+Para saber mais a respeito, vide os links presentes na seção `Outras Referências`. </p>
 
 <br>
 
