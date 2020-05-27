@@ -27,7 +27,7 @@
 
 O paper apresentado foi: 
 
-![](.img/paper.png)
+![](img/paper.png)
 
 que traz um _overview_ de aplicações de _Deep Neural Networks_ no contexto de NLP. Esse artigo pode ser lido na íntegra [aqui](https://arxiv.org/pdf/1808.09772.pdf). 
 
